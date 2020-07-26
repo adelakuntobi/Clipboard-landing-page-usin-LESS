@@ -1,0 +1,116 @@
+/*Colors*/
+/*Colors*/
+/*Font-Size*/
+/*Fonts*/
+body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+p {
+  color: #9fabb2;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+.boxBalance {
+  margin: auto;
+  padding: 38px 0;
+}
+.landing .logo {
+  margin: auto;
+  padding: 48px 0;
+}
+.myBoxStyle {
+  margin: auto;
+  padding: 38px 0;
+}
+.myBoxStyle h1 {
+  color: #4c545d;
+  font-weight: 600;
+  font-size: 49px;
+  margin: 0px;
+  padding-bottom: 18px;
+}
+.myBoxStyle h2 {
+  color: #4c545d;
+  font-weight: 600;
+  font-size: 36px;
+  margin: 0px;
+  padding-bottom: 18px;
+}
+.myBoxStyle h5 {
+  color: #4c545d;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 0px;
+  padding-bottom: 18px;
+  line-height: 40px;
+}
+.myBoxStyle .btn1 {
+  padding: 10px 30px;
+  background-color: #26baa4;
+  border-radius: 50px;
+  font-size: 17px;
+  border: none;
+  color: white;
+  margin: 0 11px 12px 0;
+  outline: none;
+}
+.myBoxStyle .btn2 {
+  padding: 10px 30px;
+  background-color: #6173ff;
+  border-radius: 50px;
+  font-size: 17px;
+  border: none;
+  color: white;
+  margin: 0 11px 12px 0;
+  outline: none;
+}
+.dskTop {
+  padding: 0;
+  text-indent: -7%;
+}
+.dskTop-text {
+  margin: auto;
+  width: 100%;
+}
+.dskTop-text h5 {
+  color: #4c545d;
+  font-weight: 600;
+  font-size: 21px;
+  margin: 0px;
+  padding-bottom: 18px;
+  padding: 10px 0;
+}
+.short {
+  line-height: 43px;
+}
+.short img {
+  vertical-align: middle;
+  
+}
+footer {
+  background-color: #9fabb2;
+}
+#footer-logo{
+  height: 50px;
+}
+@media (max-width: 576px) { 
+  .dskTop{
+    text-indent: 0%;
+    padding: 10px;
+    width: 100%;
+  }
+  .dskTop img{
+    width: 100%;
+    padding: 10px;
+  }
+  footer{
+    text-align: center;
+    padding: 20px 0;
+  }
+  footer div{
+    margin: auto;
+  }
+ }
